@@ -1,0 +1,1 @@
+This will be a template for my vue and laravel projects
